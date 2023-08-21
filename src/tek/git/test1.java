@@ -9,6 +9,7 @@ public class test1 {
 		
 		System.out.println("new chnges from saliha");
 		System.out.println("chssnge");
+		System.out.println("new changes because of practicing for stash");
 		
 	}
 
